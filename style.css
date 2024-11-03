@@ -32,3 +32,10 @@ form>label {
   flex-direction: column;
   gap: 0.25em;
 }
+
+input[type="text"],
+input[type="email"],
+input[type="number"],
+select {
+  height: 1.75rem;
+}
