@@ -12,3 +12,8 @@
 header {
   text-align: center;
 }
+
+form {
+  border: 2px solid black;
+  padding: 1.25em 1.75em;
+}
