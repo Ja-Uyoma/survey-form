@@ -13,6 +13,11 @@ header {
   text-align: center;
 }
 
+main {
+  width: 75%;
+  margin: 0 auto;
+}
+
 form {
   border: 2px solid black;
   padding: 1.25em 1.75em;
