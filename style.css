@@ -44,3 +44,8 @@ div {
   display: flex;
   flex-direction: column;
 }
+
+div>p,
+label>span {
+  font-size: large;
+}
