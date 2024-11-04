@@ -57,6 +57,10 @@ label>span {
   font-size: large;
 }
 
+textarea {
+  border-radius: 0.5rem;
+}
+
 button[type="submit"] {
   border: none;
   border-radius: 36px;
