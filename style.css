@@ -43,7 +43,7 @@ input[type="text"],
 input[type="email"],
 input[type="number"],
 select {
-  height: 1.75rem;
+  height: 2rem;
   border-radius: 0.5rem;
   border: 1px solid black;
 }
