@@ -49,3 +49,13 @@ div>p,
 label>span {
   font-size: large;
 }
+
+button[type="submit"] {
+  border: none;
+  border-radius: 36px;
+  background: #086788;
+  color: #ffffff;
+  font-size: 1rem;
+  cursor: pointer;
+  padding: .5rem 2rem;
+}
