@@ -38,6 +38,9 @@ input[type="email"],
 input[type="number"],
 select {
   height: 1.75rem;
+  border-radius: 0.5rem;
+  border: 1px solid black;
+}
 }
 
 div {
