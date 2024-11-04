@@ -9,6 +9,10 @@
   box-sizing: inherit;
 }
 
+body {
+  background-color: snow;
+}
+
 header {
   text-align: center;
 }
