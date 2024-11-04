@@ -82,4 +82,5 @@ button[type="submit"] {
   font-size: 1rem;
   cursor: pointer;
   padding: .5rem 2rem;
+  width: 100%;
 }
