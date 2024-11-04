@@ -48,6 +48,13 @@ select {
   border: 1px solid black;
 }
 
+input:focus,
+select:focus,
+textarea:focus {
+  outline: none;
+  border: 2px solid lightblue;
+}
+
 input::placeholder,
 select::placeholder {
   padding-left: 0.25rem;
