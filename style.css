@@ -66,6 +66,10 @@ div {
   flex-direction: column;
 }
 
+div>p {
+  margin: 0.5em 0;
+}
+
 div>p,
 label>span {
   font-size: large;
